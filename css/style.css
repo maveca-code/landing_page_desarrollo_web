@@ -22,6 +22,11 @@ strong{
     color: tomato;
 }
 
+a{
+    text-decoration: none;
+    color: tomato;
+}
+
 /*MENU NAVIGATION*/
 
 #menu{
